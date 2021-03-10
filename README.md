@@ -1,3 +1,6 @@
+使用create-react-app打造多页面应用
+https://blog.csdn.net/iwowen/article/details/103538942
+
 # react多页面模板
 
 ## 运行
